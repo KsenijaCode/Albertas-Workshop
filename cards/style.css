@@ -1,0 +1,10 @@
+@font-face {
+    font-family: "Rock font";
+    src: url(./MetalMania.ttf);
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
